@@ -1,8 +1,11 @@
 <div align="center">
-  <br />
+<!--   <br />
     <a href="/" target="_blank">
       <img src="/main/hero.png" alt="Portfolio Hero Section">
     </a>
+  <br /> -->
+  <h2 align="center">Baburao Adkane | Portfolio</h2>
+  <br />
   <br />
 
   <div>
