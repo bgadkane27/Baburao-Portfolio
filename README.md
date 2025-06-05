@@ -24,9 +24,12 @@
 
 ## 📌 Introduction  
 
-Hello 👋 — I'm **Baburao Adkane**, a passionate **QA Engineer** with a strong eye for detail and a hunger to explore the latest in tech and design. I believe in building not just functional products but also experiences that leave a lasting impression.  
-
-This portfolio is a showcase of my skills, professional journey, creative side projects, and the enthusiasm I pour into every piece of work I deliver.  
+Hello 👋 — I'm **Baburao Adkane**, a skilled **QA Engineer** and a hunger to explore the latest in tech and design. 
+I'm a quick learner who collaborates closely with
+        development and business teams to design reliable, scalable,
+        and bug-free systems. I'm passionate about crafting effective test
+        strategies that ensure product quality and deliver seamless user experiences.
+        Let's work together to build systems you can trust!" 
 
 ---
 
@@ -51,8 +54,18 @@ Here's what I'm working with:
 
 ## 💼 Work Experience  
 
-**QA Engineer | ERP & HRMS Solutions Provider**  
-*Jan 2022 — Present*  
+**QA Engineer | Expert Business Solutions**  
+*Mar 2023 — Present*  
+
+- Delivered end-to-end testing for ERP, HRMS, and eCommerce platforms ensuring seamless customer experience.  
+- Specialized in **API testing**, **database testing**, and **functional validation** across multiple business modules.  
+- Introduced and implemented **automated UI testing** using Selenium C#.  
+- Actively participated in **feature enhancement planning** and **requirement analysis** with cross-functional teams.  
+- Developed reusable **test cases, test data, and automation frameworks** improving efficiency by 30%.
+
+---
+**Software Test Engineer | WebRelier Software Solutions Pvt Ltd**  
+*Aug 2020 — Feb 2023*  
 
 - Delivered end-to-end testing for ERP, HRMS, and eCommerce platforms ensuring seamless customer experience.  
 - Specialized in **API testing**, **database testing**, and **functional validation** across multiple business modules.  
