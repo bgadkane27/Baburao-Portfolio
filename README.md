@@ -1,5 +1,5 @@
 <div align="center">
-  # 🚀 Baburao Adkane — Portfolio
+  <h2> Baburao Adkane — Portfolio </h2>
   <br />
  <div align="center">
      Built with passion, creativity, and a love for design by using the following Framework and Libraries.
@@ -11,7 +11,6 @@
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
   </div>
 </div>
-
 
 ## 📑 Table of Contents  
 - [📌 Introduction](#introduction)  
