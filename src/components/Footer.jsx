@@ -55,19 +55,19 @@ const Footer = () => {
         <div>
           <p className="text-gray-300 text-xs tracking-wide">&copy; 2025 Baburao Adkane.</p>
         </div>
-        <div className="flex items-center justify-center gap-2 min-w-fit">
+        {/* <div className="flex items-center justify-center gap-2 min-w-fit">
           <span><Clock2 size={20} /></span>
           <p className="text-xs">{time.toLocaleTimeString()}</p>
-        </div>
-        {/* <div>
+        </div> */}
+        <div>
           {weather ? (
-            <p>
-              {weather.name}: {weather.main.temp}°C, {weather.weather[0].main}
+            <p className="text-xs text-cyan-500">
+              Weather in Pune: {weather.weather[0].main}, {weather.main.temp}°C 
             </p>
           ) : (
             <p>Loading weather...</p>
           )}
-        </div> */}
+        </div>
       </div>
     </footer>
   );

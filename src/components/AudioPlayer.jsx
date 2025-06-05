@@ -15,7 +15,7 @@ const AudioPlayer = () => {
     };
 
     useEffect(() => {
-        audioRef.current.volume = 0.3;
+        audioRef.current.volume = 0.2;
     }, []);
 
     return (
