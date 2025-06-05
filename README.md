@@ -1,5 +1,5 @@
 <div align="center">
-  <h2 align="center">Baburao Adkane | Portfolio</h2>
+  # 🚀 Baburao Adkane — Portfolio
   <br />
  <div align="center">
      Built with passion, creativity, and a love for design by using the following Framework and Libraries.
@@ -12,11 +12,6 @@
   </div>
 </div>
 
-# 🚀 Baburao Adkane — Portfolio
-
-Welcome to my personal portfolio repository! This space is a reflection of my passion for crafting clean, modern, and meaningful digital experiences. From beautiful UI designs to rock-solid backend systems and everything in between — this project is built with 💖 enthusiasm and an insatiable curiosity for technology.
-
----
 
 ## 📑 Table of Contents  
 - [📌 Introduction](#introduction)  
@@ -38,14 +33,14 @@ This portfolio is a showcase of my skills, professional journey, creative side p
 
 ## 🛠️ Skills  
 
-Here's what I'm confident working with:
+Here's what I'm working with:
 
 ### ⚙️ Technical Skills  
 - **Frontend:** React.js, Next.js, Tailwind CSS, Framer Motion  
 - **Backend:** Node.js, Express.js  
 - **Testing:** Selenium (C#), MSTest, Postman, API Testing  
-- **Database:** SQL Server, MongoDB  
-- **Tools:** Git, Visual Studio, VS Code, Jira  
+- **Database:** SQL Server 
+- **Tools:** Git, Visual Studio, VS Code, Cursor, WebStorm  
 
 ### 🎨 Soft Skills  
 - Strong attention to detail  
@@ -82,9 +77,9 @@ Here's what I'm confident working with:
 
 Let’s connect and build something impactful together 🚀  
 
-- 📧 Email: **baburao.adkane@example.com**  
-- 💼 LinkedIn: [linkedin.com/in/baburaoadkane](https://linkedin.com/in/baburaoadkane)  
-- 🌐 Portfolio: [baburao-portfolio.vercel.app](https://baburao-portfolio.vercel.app)  
+- 📧 Email: **bgadkane@gmail.com**  
+- 💼 LinkedIn: [baburaoadkane](https://www.linkedin.com/in/baburao-adkane-443476250/)  
+- 🌐 Phone: [91-9673929867] 
 
 ---
 
@@ -92,7 +87,7 @@ Let’s connect and build something impactful together 🚀
 
 - 🎯 Constantly learning about new frameworks and tools  
 - 🎨 Love experimenting with UI/UX animations  
-- 🎬 Enjoy creating cinematic portfolio layouts with **Framer Motion + GSAP**  
+- 🎬 Enjoy creating cinematic portfolio layouts with **Framer Motion + THREEJS**  
 - 📖 Currently exploring **3D models with React Three Fiber**
 
 ---
@@ -103,6 +98,6 @@ This project was built by closely following the tutorials and inspiration from t
 
 ---
 
-## 🖤 Made with passion, creativity & endless cups of coffee ☕  
+## 🖤 Made with passion, creativity & midnight hustle 🌌  
 
 
