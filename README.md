@@ -1,112 +1,108 @@
 <div align="center">
-<!--   <br />
-    <a href="/" target="_blank">
-      <img src="/main/hero.png" alt="Portfolio Hero Section">
-    </a>
-  <br /> -->
   <h2 align="center">Baburao Adkane | Portfolio</h2>
   <br />
-  <br />
-
+ <div align="center">
+     Built with passion, creativity, and a love for design by using the following Framework and Libraries.
+    </div>
+    <br />
   <div>
     <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
     <img src="https://img.shields.io/badge/-Three_JS-black?style=for-the-badge&logoColor=white&logo=threedotjs&color=000000" alt="three.js" />
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
   </div>
-
-  <h3 align="center">Baburao Adkane | Portfolio</h3>
-
-   <div align="center">
-     Build this project step by step by watching the youtube channel of <b>JavaScript Mastery</b></a>
-    </div>
 </div>
 
-## 📋 <a name="table">Table of Contents</a>
+# 🚀 Baburao Adkane — Portfolio
 
-1. 🤖 [Introduction](#introduction)
-2. ⚙️ [About Me](#tech-stack)
-3. 🔋 [Experience](#features)
-4. 🤸 [Works](#quick-start)
-5. 🕸️ [Tech](#snippets)
-6. 🕸️ [Feedbacks](#snippets)
-7. 🔗 [Links](#links)
-8. 🚀 [More](#more)
+Welcome to my personal portfolio repository! This space is a reflection of my passion for crafting clean, modern, and meaningful digital experiences. From beautiful UI designs to rock-solid backend systems and everything in between — this project is built with 💖 enthusiasm and an insatiable curiosity for technology.
 
-## 🚨 Tutorial
+---
 
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>. 
+## 📑 Table of Contents  
+- [📌 Introduction](#introduction)  
+- [🛠️ Skills](#skills)  
+- [💼 Work Experience](#work-experience)  
+- [✨ Feedbacks](#feedbacks)  
+- [📞 Contact](#contact)  
+- [📚 More](#more)
 
-If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
+---
 
-<a href="https://youtu.be/0fYi8SGA20k?feature=shared" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
+## 📌 Introduction  
 
-## <a name="introduction">🤖 Introduction</a>
+Hello 👋 — I'm **Baburao Adkane**, a passionate **QA Engineer** with a strong eye for detail and a hunger to explore the latest in tech and design. I believe in building not just functional products but also experiences that leave a lasting impression.  
 
-By developing this project, you will gain hands-on experience in crafting immersive web experiences, mastering 3D libraries, and implementing engaging animations. The combination of creativity and technical skills showcased in this project serves as an excellent learning opportunity for developers seeking to enhance their portfolio and captivate users with cutting-edge web design.
+This portfolio is a showcase of my skills, professional journey, creative side projects, and the enthusiasm I pour into every piece of work I deliver.  
 
-If you're getting started and need assistance or face any bugs, join our active Discord community with over 27k+ members. It's a place where people help each other out.
+---
 
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
+## 🛠️ Skills  
 
-## <a name="tech-stack">⚙️ Tech Stack</a>
+Here's what I'm confident working with:
 
-- React.js
-- Three.js
-- React Three Fiber
-- React Three Drei
-- Email JS
-- Vite
-- Tailwind CSS
+### ⚙️ Technical Skills  
+- **Frontend:** React.js, Next.js, Tailwind CSS, Framer Motion  
+- **Backend:** Node.js, Express.js  
+- **Testing:** Selenium (C#), MSTest, Postman, API Testing  
+- **Database:** SQL Server, MongoDB  
+- **Tools:** Git, Visual Studio, VS Code, Jira  
 
-## <a name="features">🔋 Features</a>
+### 🎨 Soft Skills  
+- Strong attention to detail  
+- Analytical problem solver  
+- Team collaboration & mentorship  
+- Excellent communication and documentation  
 
-👉 **Customizable 3D Hero Section**: Includes a 3D desktop model easily customizable to suit specific needs.
+---
 
-👉 **Interactive Experience and Work Sections**: Utilizes animations powered by framer motion for engaging user experience.
+## 💼 Work Experience  
 
-👉 **3D Skills Section**: Showcases skills using 3D geometries through three.js and React Three fiber
+**QA Engineer | ERP & HRMS Solutions Provider**  
+*Jan 2022 — Present*  
 
-👉 **Animated Projects and Testimonials**: Features animated sections using framer motion for projects and client testimonials.
+- Delivered end-to-end testing for ERP, HRMS, and eCommerce platforms ensuring seamless customer experience.  
+- Specialized in **API testing**, **database testing**, and **functional validation** across multiple business modules.  
+- Introduced and implemented **automated UI testing** using Selenium C#.  
+- Actively participated in **feature enhancement planning** and **requirement analysis** with cross-functional teams.  
+- Developed reusable **test cases, test data, and automation frameworks** improving efficiency by 30%.
 
-👉 **Contact Section with 3D Earth Model**:Integrates a 3D earth model with email functionality powered by emailjs.
+---
 
-👉 **3D Stars**: Generate stars progressively at random positions using Three.js for background display.
+## ✨ Feedbacks  
 
-👉 **Consistent Animations**: Implements cohesive animations throughout the website using framer motion.
+> 💬 *"Baburao's attention to detail and commitment to product quality has made a significant positive impact on our delivery timelines."*  
+— **Project Manager**
 
-👉 **Responsive Design**: Ensures optimal display and functionality across all devices.
+> 💬 *"His creative approach to problem-solving and user-focused mindset makes him a valuable asset to any tech team."*  
+— **Tech Lead**
 
-and many more, including code architecture and reusability 
+---
 
-## <a name="quick-start">🤸 Quick Start</a>
+## 📞 Contact  
 
-Follow these steps to set up the project locally on your machine.
+Let’s connect and build something impactful together 🚀  
 
-**Prerequisites**
+- 📧 Email: **baburao.adkane@example.com**  
+- 💼 LinkedIn: [linkedin.com/in/baburaoadkane](https://linkedin.com/in/baburaoadkane)  
+- 🌐 Portfolio: [baburao-portfolio.vercel.app](https://baburao-portfolio.vercel.app)  
 
-Make sure you have the following installed on your machine:
+---
 
-- [Git](https://git-scm.com/)
-- [Node.js](https://nodejs.org/en)
-- [npm](https://www.npmjs.com/) (Node Package Manager)
+## 📚 More  
 
-## <a name="snippets">🕸️ Snippets</a>
+- 🎯 Constantly learning about new frameworks and tools  
+- 🎨 Love experimenting with UI/UX animations  
+- 🎬 Enjoy creating cinematic portfolio layouts with **Framer Motion + GSAP**  
+- 📖 Currently exploring **3D models with React Three Fiber**
 
-<details>
-<summary><code>constants.js</code></summary>
+---
 
-</details>
+## 🎉 Special Thanks  
 
-## <a name="links">🔗 Links</a>
+This project was built by closely following the tutorials and inspiration from the **JavaScript Mastery** YouTube channel. Big shoutout to the community for their continuous support and resources.  
 
-Models and Assets used in the project can be found [here](https://drive.google.com/drive/folders/1KVU8iaH0E_JFtShNiR3BgCSA3pawXY4Z)
+---
 
-## <a name="more">🚀 More</a>
+## 🖤 Made with passion, creativity & endless cups of coffee ☕  
 
-**Advance your skills with Next.js Pro Course**
 
-Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning experience. They're packed with detailed explanations, cool features, and exercises to boost your skills. Give it a go!
-
-<a href="https://www.jsmastery.pro/ultimate-next-course" target="_blank">
-<img src="https://i.ibb.co/804sPK6/Image-720.png" alt="Project Banner">
-</a>
