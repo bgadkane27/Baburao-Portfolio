@@ -23,9 +23,10 @@
 ---
 
 ## <a name="introduction">📌 Introduction</a>
-Hello 👋 — I'm **Baburao Adkane**, a skilled **QA Engineer** who designs test strategies
+
+Hello 👋 — I'm Baburao Adkane**, a skilled QA Engineer who designs test strategies
             that deliver bug-free, reliable and scalable systems.
----
+
 ## <a name="skills">🛠️ Skills  </a>
 
 Here's what I'm working with:
