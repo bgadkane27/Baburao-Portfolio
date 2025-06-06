@@ -1,5 +1,5 @@
 <div align="center">
-  <h2> Baburao Adkane — Portfolio </h2>
+  <h1> Baburao Adkane — Portfolio </h1>
   <br />
  <div align="center">
      Built with passion, creativity, and a love for design by using the following Framework and Libraries.
@@ -24,25 +24,13 @@
 
 ## 📌 Introduction  
 
-Hello 👋 — I'm **Baburao Adkane**, a skilled **QA Engineer** and a hunger to explore the latest in tech and design. 
-I'm a quick learner who collaborates closely with
-        development and business teams to design reliable, scalable,
-        and bug-free systems. I'm passionate about crafting effective test
-        strategies that ensure product quality and deliver seamless user experiences.
-        Let's work together to build systems you can trust!" 
-
+Hello 👋 — I'm **Baburao Adkane**, a skilled **QA Engineer** who designs test strategies
+            that deliver bug-free, reliable and scalable systems.
 ---
 
 ## 🛠️ Skills  
 
 Here's what I'm working with:
-
-### ⚙️ Technical Skills  
-- **Frontend:** React.js, Next.js, Tailwind CSS, Framer Motion  
-- **Backend:** Node.js, Express.js  
-- **Testing:** Selenium (C#), MSTest, Postman, API Testing  
-- **Database:** SQL Server 
-- **Tools:** Git, Visual Studio, VS Code, Cursor, WebStorm  
 
 ### 🎨 Soft Skills  
 - Strong attention to detail  
@@ -50,6 +38,12 @@ Here's what I'm working with:
 - Team collaboration & mentorship  
 - Excellent communication and documentation  
 
+### ⚙️ Technical Skills  
+- **Frontend:** React.js, Next.js, Tailwind CSS, Framer Motion  
+- **Backend:** Node.js, Express.js  
+- **Testing:** Selenium (C#), MSTest, Postman, API Testing  
+- **Database:** SQL Server 
+- **Tools:** Git, Visual Studio, VS Code, Cursor, WebStorm  
 ---
 
 ## 💼 Work Experience  
@@ -57,33 +51,9 @@ Here's what I'm working with:
 **QA Engineer | Expert Business Solutions**  
 *Mar 2023 — Present*  
 
-- Delivered end-to-end testing for ERP, HRMS, and eCommerce platforms ensuring seamless customer experience.  
-- Specialized in **API testing**, **database testing**, and **functional validation** across multiple business modules.  
-- Introduced and implemented **automated UI testing** using Selenium C#.  
-- Actively participated in **feature enhancement planning** and **requirement analysis** with cross-functional teams.  
-- Developed reusable **test cases, test data, and automation frameworks** improving efficiency by 30%.
-
----
 **Software Test Engineer | WebRelier Software Solutions Pvt Ltd**  
 *Aug 2020 — Feb 2023*  
 
-- Delivered end-to-end testing for ERP, HRMS, and eCommerce platforms ensuring seamless customer experience.  
-- Specialized in **API testing**, **database testing**, and **functional validation** across multiple business modules.  
-- Introduced and implemented **automated UI testing** using Selenium C#.  
-- Actively participated in **feature enhancement planning** and **requirement analysis** with cross-functional teams.  
-- Developed reusable **test cases, test data, and automation frameworks** improving efficiency by 30%.
-
----
-
-## ✨ Feedbacks  
-
-> 💬 *"Baburao's attention to detail and commitment to product quality has made a significant positive impact on our delivery timelines."*  
-— **Project Manager**
-
-> 💬 *"His creative approach to problem-solving and user-focused mindset makes him a valuable asset to any tech team."*  
-— **Tech Lead**
-
----
 
 ## 📞 Contact  
 
@@ -91,8 +61,7 @@ Let’s connect and build something impactful together 🚀
 
 - 📧 Email: **bgadkane@gmail.com**  
 - 💼 LinkedIn: [baburaoadkane](https://www.linkedin.com/in/baburao-adkane-443476250/)  
-- 🌐 Phone: [91-9673929867] 
-
+- 🌐 Phone: **+91-9673929867**
 ---
 
 ## 📚 More  

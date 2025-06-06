@@ -407,30 +407,6 @@ const projects = [
   },
 ];
 
-export const cardData = [
-  {
-    id: 1,
-    title: "$299/Month",
-    description: "Access premium features with this plan.",
-    link: "https://example.com/pro",
-    buttonText: "Get it now",
-  },
-  {
-    id: 2,
-    title: "$149/Month",
-    description: "Advanced tools for growing businesses.",
-    link: "https://example.com/advanced",
-    buttonText: "Choose plan",
-  },
-  {
-    id: 2,
-    title: "$149/Month",
-    description: "Advanced tools for growing businesses.",
-    link: "https://example.com/advanced",
-    buttonText: "Choose plan",
-  },
-];
-
 const testimonials = [
   {
     testimonial:
