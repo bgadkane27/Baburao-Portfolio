@@ -19,7 +19,7 @@ const Card = ({ name, description, tags, link, hyperlink }) => {
                     scale: 1.05,
                 },
             }}
-            className="relative w-full sm:w-[360px] shrink-0 overflow-hidden rounded-2xl p-8 bg-black-100"
+            className="relative w-full sm:w-[360px] shrink-0 overflow-hidden rounded-2xl p-8 bg-tertiary/50"
         >
             <div className="relative z-10 text-white">
                 <div className='flex justify-end'>
@@ -100,7 +100,7 @@ const Background = () => {
                 cx="160.5"
                 cy="114.5"
                 r="101.5"
-                fill="#31004B"
+                fill="#47016D4D"
             />
             <motion.ellipse
                 variants={{
@@ -118,7 +118,7 @@ const Background = () => {
                 cy="265.5"
                 rx="101.5"
                 ry="43.5"
-                fill="#47016D"
+                fill="#47016D4D"
             />
         </motion.svg>
     );

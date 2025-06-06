@@ -21,7 +21,7 @@ const Contact = () => {
         <motion.div
         variants={slideIn("left", "tween", 0.1, 1)}
         className='flex-[0.75] p-8 rounded-2xl bg-cover bg-black-100 bg-no-repeat'
-        style={{ backgroundImage: "url('/main/back2.svg')",
+        style={{ backgroundImage: "url('/main/back1.png')",
           filter: "brightness(0.8)"
          }}
       >

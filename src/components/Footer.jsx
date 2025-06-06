@@ -1,21 +1,9 @@
 import { useState, useEffect } from "react";
 import { styles } from "../styles";
-import { Clock2 } from "lucide-react";
 
 const Footer = () => {
-  const [time, setTime] = useState(new Date());
   const [weather, setWeather] = useState(null);
   const [scrolled, setScrolled] = useState(false);
-
-  useEffect(() => {
-    // Update time every second
-    const interval = setInterval(() => {
-      setTime(new Date());
-    }, 1000);
-
-    // Clean up interval when component unmounts
-    return () => clearInterval(interval);
-  }, []);
 
   useEffect(() => {
     const handleScroll = () => {
@@ -55,17 +43,13 @@ const Footer = () => {
         <div>
           <p className="text-gray-300 text-xs tracking-wide">&copy; 2025 Baburao Adkane.</p>
         </div>
-        {/* <div className="flex items-center justify-center gap-2 min-w-fit">
-          <span><Clock2 size={20} /></span>
-          <p className="text-xs">{time.toLocaleTimeString()}</p>
-        </div> */}
         <div>
           {weather ? (
             <p className="text-xs text-cyan-500">
               Weather in Pune: {weather.weather[0].main}, {weather.main.temp}°C 
             </p>
           ) : (
-            <p>Loading weather...</p>
+            <p className="text-xs">Loading weather...</p>
           )}
         </div>
       </div>
