@@ -12,23 +12,21 @@
   </div>
 </div>
 
-## 📑 Table of Contents  
+## 📋 <a name="table">Table of Contents</a>
+
 - [📌 Introduction](#introduction)  
 - [🛠️ Skills](#skills)  
-- [💼 Work Experience](#work-experience)  
-- [✨ Feedbacks](#feedbacks)  
+- [💼 Work Experience](#work)   
 - [📞 Contact](#contact)  
 - [📚 More](#more)
 
 ---
 
-## 📌 Introduction  
-
+## <a name="introduction">📌 Introduction</a>
 Hello 👋 — I'm **Baburao Adkane**, a skilled **QA Engineer** who designs test strategies
             that deliver bug-free, reliable and scalable systems.
 ---
-
-## 🛠️ Skills  
+## <a name="skills">🛠️ Skills  </a>
 
 Here's what I'm working with:
 
@@ -46,7 +44,7 @@ Here's what I'm working with:
 - **Tools:** Git, Visual Studio, VS Code, Cursor, WebStorm  
 ---
 
-## 💼 Work Experience  
+## <a name="work">💼 Work Experience </a>
 
 **QA Engineer | Expert Business Solutions**  
 *Mar 2023 — Present*  
@@ -54,8 +52,8 @@ Here's what I'm working with:
 **Software Test Engineer | WebRelier Software Solutions Pvt Ltd**  
 *Aug 2020 — Feb 2023*  
 
-
-## 📞 Contact  
+## <a name="contact">📞 Contact </a>
+##  
 
 Let’s connect and build something impactful together 🚀  
 
@@ -64,7 +62,7 @@ Let’s connect and build something impactful together 🚀
 - 🌐 Phone: **+91-9673929867**
 ---
 
-## 📚 More  
+## <a name="more">📚 More </a> 
 
 - 🎯 Constantly learning about new frameworks and tools  
 - 🎨 Love experimenting with UI/UX animations  
