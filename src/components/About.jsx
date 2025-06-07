@@ -41,7 +41,12 @@ const ServiceCard = ({ index, title, icon }) => (
 const About = () => {
   return (
     <>
-      <motion.div variants={textVariant()}>
+      <motion.div
+        variants={textVariant()}
+        initial="hidden"
+        whileInView="show"
+        viewport={{ once: true, amount: 0.25 }}
+      >
         <p className={styles.sectionSubText}>Get to Know Me</p>
         <BubbleText
           text="Overview"
@@ -51,7 +56,7 @@ const About = () => {
       </motion.div>
 
       <motion.p
-        variants={fadeIn("", "", 0.2, 1)}
+        // variants={fadeIn("", "", 0.2, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px] text-justify'
       >
         "I'm a skilled QA Engineer with hands-on experience in manual and

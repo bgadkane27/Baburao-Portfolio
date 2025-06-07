@@ -127,15 +127,22 @@ const Background = () => {
 const Works = () => {
     return (
         <>
-            <motion.div variants={textVariant()}>
+            <motion.div
+                variants={textVariant()}
+                initial="hidden"
+                whileInView="show"
+                viewport={{ once: true, amount: 0.25 }}
+            >
                 <p className={`${styles.sectionSubText} `}>Projects I'm Working On and Have Worked</p>
                 <BubbleText
                     text="Projects"
                     className="sm:text-7xl text-4xl font-thin text-indigo-300"
                 />
+                <p className="mt-2 text-secondary text-[17px] text-justify max-w-3xl leading-[30px]">Explore a collection of projects - Each project highlights some information and link to company website
+                    which shows high-quality, reliable, and scalable software solutions for business.
+                </p>
             </motion.div>
-
-            <div className='w-full flex'>
+            {/* <div className='w-full flex'>
                 <motion.p
                     variants={fadeIn("", "", 0.1, 1)}
                     className='mt-3 text-secondary text-[17px] text-justify max-w-3xl leading-[30px]'
@@ -143,8 +150,7 @@ const Works = () => {
                     Explore a collection of projects - Each project highlights some information and link to company website
                     which shows high-quality, reliable, and scalable software solutions for business.
                 </motion.p>
-            </div>
-
+            </div> */}
             <div className="mt-20 flex flex-wrap gap-8">
                 {projects.map((card, index) => (
                     <Card key={card.name} index={index} {...card} />

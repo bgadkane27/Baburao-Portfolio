@@ -31,7 +31,8 @@ const Hero = () => {
             QA Engineer
           </h1> */}
           <BubbleText
-            text="QA Engineer"
+            // text="QA Engineer"
+            text="Baburao Adkane"
             className="sm:text-7xl text-4xl font-thin text-indigo-300"
           />
           <p className={`${styles.heroSubText} mt-5`}>
@@ -42,7 +43,7 @@ const Hero = () => {
         </div>
       </div>
 
-      <div className="absolute xs:bottom-10 bottom-24 w-full flex justify-center items-center z-10">
+      <div className="absolute xs:bottom-24 bottom-24 w-full flex justify-center items-center z-10">
         <a href="#about">
           <div className="w-[35px] h-[64px] rounded-3xl border-4 border-secondary flex justify-center items-start p-2">
             <motion.div
