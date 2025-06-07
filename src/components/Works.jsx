@@ -100,7 +100,7 @@ const Background = () => {
                 cx="160.5"
                 cy="114.5"
                 r="101.5"
-                fill="#47016D4D"
+                fill="#47016DB3"
             />
             <motion.ellipse
                 variants={{
@@ -118,7 +118,7 @@ const Background = () => {
                 cy="265.5"
                 rx="101.5"
                 ry="43.5"
-                fill="#47016D4D"
+                fill="#47016D99"
             />
         </motion.svg>
     );
