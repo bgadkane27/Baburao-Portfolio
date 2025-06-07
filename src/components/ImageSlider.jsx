@@ -8,29 +8,29 @@ const ImageSlider = () => {
   const videos = [
     {
       video: "/videos/001.mp4",
-      title: "What is Docker?",
-      subtitle: "A tool for containerizing applications.",
-    },
-    {
-      video: "/videos/002.mp4",
-      title: "What is Figma?",
-      subtitle: "A collaborative UI/UX design tool.",
-    },
-    {
-      video: "/videos/003.mp4",
-      title: "What is Git?",
-      subtitle: "A distributed version control system.",
-    },
-    {
-      video: "/videos/004.mp4",
-      title: "What is JavaScript?",
-      subtitle: "The language of the web.",
+      title: "What is the Aspiration?",
+      subtitle: "To deliver quality-first, user-centric products by transforming testing into a proactive, value-adding process.",
     },
     {
       video: "/videos/005.mp4",
-      title: "What is Node.js?",
-      subtitle: "JavaScript runtime for backend development.",
+      title: "Ongoing Projects",
+      subtitle: "Currently contributing to diverse projects involving ERP/HRMS/CRM/RETAIL/RESTAURANT/SUBSCRIPTION/REAL ESTATE quality assurance.",
+    },    
+    {
+      video: "/videos/004.mp4",
+      title: "Consolidating my Transformation",
+      subtitle: "Turning knowledge into practice, enhancing test strategies, and driving continuous process improvements.",
+    },    
+    {
+      video: "/videos/003.mp4",
+      title: "Where do I focus my Transformation?",
+      subtitle: "From finding bugs to preventing them — mastering process improvement, quality advocacy and automation.",
     },
+    {
+      video: "/videos/002.mp4",
+      title: "Where am I now?",
+      subtitle: "At a stage of mastering defect detection, process assurance, and evolving into proactive quality ownership.",
+    },    
   ];
 
   const positions = ["center", "left1", "left2", "right2", "right1"];
@@ -85,7 +85,7 @@ const ImageSlider = () => {
               loop
               playsInline
             />
-            <p className="text-gray-400 text-base text-center">{video.subtitle}</p>
+            <p className="text-gray-400 text-base text-center max-w-[90%] break-words">{video.subtitle}</p>
           </motion.div>
         ))}
         {/* <ParticleRing /> */}
